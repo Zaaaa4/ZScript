@@ -10,7 +10,6 @@ BOTS = {
     "xjqhycE",
     "mxkqocxP",
     "kqoxuufeR",
-    "powixywgX",
 } -- ALL THE BOT's NAME
 
 WORLD = "POKLAIWAI" -- WORLD NAME
