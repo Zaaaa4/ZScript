@@ -6,8 +6,8 @@ BOTS = {
     "ppowhucT",
     "wtwyrxT",
     "trixoqreT",
-    -- "klorxtpI",
-    -- "xjqhycE",
+    "klorxtpI",
+    "xjqhycE",
     -- "mxkqocxP",
     -- "kqoxuufeR"
 } -- ALL THE BOT's NAME
