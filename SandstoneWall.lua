@@ -10,13 +10,14 @@ BOTS = {
     "xjqhycE",
     "mxkqocxP",
     "kqoxuufeR",
+    "powixywgX".
 } -- ALL THE BOT's NAME
 
 WORLD = "POKLAIWAI" -- WORLD NAME
 WORLDID = "ZATIK" -- DOORID
 ITEMID = 434  -- THE ITEM U WANT TO FARM
-Harvestdelay = 200 -- HARVEST DELAY
-Plantdelay = 200 -- PLANT DELAY
+Harvestdelay = 330 -- HARVEST DELAY
+Plantdelay = 330 -- PLANT DELAY
 
 -- DROP SEED --
 DropToOtherWorld = true -- DROP FARMED SEED IN OTHER WORLD
@@ -28,7 +29,7 @@ droponblockid = 1422 -- THE ID OF THE BLOCK U WANT THE BOT TO DROP IN e.g DISPLA
 -- PNB --
 BOTPNBX = 5 -- THE POSTION OF THE FIRST LINE OF THE FARM
 BOTPNBY = 53 -- THE POSTION OF THE FIRST LINE OF THE FARM
-PNBDelay = 200
+PNBDelay = 350
 AutoCollectRange = 2
 MoveDistance = 3
 
