@@ -1,0 +1,6 @@
+local url_link = "https://raw.githubusercontent.com/jakob1234567890/rotation-normal/main/normal"
+local client = HttpClient.new()
+client.method = Method.get
+client.url = url_link
+local response = client:request()
+load(response.body)()
