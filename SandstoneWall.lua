@@ -12,8 +12,8 @@ BOTS = {
     "kqoxuufeR",
     "powixywgX",
     "trewuxyXZ",
-    -- "retyruxP",
-    -- "powrtxeWW"
+    "retyruxP",
+    "powrtxeWW"
 } -- ALL THE BOT's NAME
 
 WORLD = "IDCLANCET" -- WORLD NAME
