@@ -12,15 +12,13 @@ BOTS = {
     "kqoxuufeR",
     "powixywgX",
     "trewuxyXZ",
-    -- "retyruxP",
-    -- "powrtxeWW"
 } -- ALL THE BOT's NAME
 
-WORLD = "IDCLANCET" -- WORLD NAME
+WORLD = "VpFobzDh" -- WORLD NAME
 WORLDID = "ZATIK" -- DOORID
 ITEMID = 434  -- THE ITEM U WANT TO FARM
-Harvestdelay = 200 -- HARVEST DELAY
-Plantdelay = 200 -- PLANT DELAY
+Harvestdelay = 230 -- HARVEST DELAY
+Plantdelay = 230 -- PLANT DELAY
 
 -- DROP SEED --
 DropToOtherWorld = true -- DROP FARMED SEED IN OTHER WORLD
@@ -30,9 +28,9 @@ WebhookUrl = "https://discord.com/api/webhooks/1184617878926925835/Ncc5jV_NMQYI_
 droponblockid = 1422 -- THE ID OF THE BLOCK U WANT THE BOT TO DROP IN e.g DISPLAYBLOCK
 
 -- PNB --
-BOTPNBX = 1 -- THE POSTION OF THE FIRST LINE OF THE FARM
-BOTPNBY = 50 -- THE POSTION OF THE FIRST LINE OF THE FARM
-PNBDelay = 180
+BOTPNBX = 2 -- THE POSTION OF THE FIRST LINE OF THE FARM
+BOTPNBY = 43 -- THE POSTION OF THE FIRST LINE OF THE FARM
+PNBDelay = 200
 AutoCollectRange = 2
 MoveDistance = 3
 
